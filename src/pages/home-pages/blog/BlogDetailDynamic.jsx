@@ -24,7 +24,7 @@ import {
   AccessTime,
   NavigateNext
 } from '@mui/icons-material';
-import Header from "../../../components/Header/Header";
+import Header from "../../../components/header/Header";
 import { Footer } from "../../../components/Footer/Footer";
 import '../../../components/Blog/BlogContent.css';
 
